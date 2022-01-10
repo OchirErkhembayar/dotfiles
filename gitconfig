@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ochir_erkhembayar@yahoo.com
+	name = Ochir Erkhembayar
